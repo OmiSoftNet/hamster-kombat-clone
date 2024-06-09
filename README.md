@@ -14,7 +14,6 @@ We will help you with product implementation so that you can fully focus on mark
 - Telegram Mini App
 - Authorization via Telegram
 - Mobile Adaptation
-- Deposit & Withdrawal via Crypto
 - Admin Panel
 - Figma file with design
 - Localization
@@ -31,6 +30,7 @@ We will help you with product implementation so that you can fully focus on mark
       <li>Landing Page</li>
       <li>Blog</li>
       <li>Integration with Social Networks</li>
+      <li>Deposit & Withdrawal via Crypto</li>
       <li>Mobile Application</li>
       <li>Support Bot</li>
       <li>Loot Boxes</li>
