@@ -130,7 +130,7 @@ Write to us, and we will answer all your questions and tell you all about your p
 
 <details>
   <summary>What's the cost of the Hamster Kombat Script?</summary>
-  <p>Our Hamster Kombat Script is distributed according to the White Label model. We have 2 offers for you:</p> 
+  <p>Our Hamster Kombat Script is distributed according to the White Label model. We have 3 offers for you:</p> 
   <ul>
       <li>Basic Package - <b>$10,000</b> first payment and 5% of revenue. For these funds, the solution will be adapted for you and deployed on your server. Product maintenance will be free.</li>
       <li>NoFee Package - <b>$20,000</b> first payment and $2,000 per year for maintenance. Suitable if you have a large community and there will be many users from the start.</li>
