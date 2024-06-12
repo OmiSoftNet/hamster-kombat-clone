@@ -85,13 +85,13 @@ We will help you with product implementation so that you can fully focus on mark
 
 ## Pricing
 
-|                  | Basic Package        | NoFee Package | Special Offer |
-|------------------|----------------------|---------------|---------------|
-| Fee              | 5%                   | 0%            | 0%            |
-| Maintenance Cost | Free                 | $2,000 / year | Free          |
-| Community        | 1000+                | 10000+        | 50000+        |
-| Custom design    | Only logo & colors   | Yes           | Yes           |
-| Pricing          | $10.000              | $20.000       | Contact Us    |
+|                     | Basic Package        | NoFee Package | Special Offer |
+|---------------------|----------------------|---------------|---------------|
+| % coins for Omisoft | 5%                   | 0%            | 0%            |
+| Maintenance Cost    | Free                 | $2,000 / year | Free          |
+| Community           | -                    | 10000+        | 50000+        |
+| Custom design       | Only logo & colors   | Yes           | Yes           |
+| Pricing             | $7.500               | $20.000       | Contact Us    |
 
 > [!IMPORTANT]  
 > We are constantly adding new offers, and to be informed, [subscribe to our telegram](https://t.me/omisoftoffers) 🚴‍♂️🚴‍♂️🚴‍♂️
