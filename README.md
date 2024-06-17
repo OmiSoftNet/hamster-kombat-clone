@@ -87,7 +87,7 @@ We will help you with product implementation so that you can fully focus on mark
 
 |                     | Basic Package         | NoFee Package | Special Offer |
 |---------------------|-----------------------|---------------|---------------|
-| % coins for Omisoft | 5%                    | 0%            | 0%            |
+| % coins for OmiSoft | 5%                    | 0%            | 0%            |
 | Maintenance Cost    | Free                  | $2,000 / year | Free          |
 | Community           | -                     | 10000+        | 50000+        |
 | Custom design       | Only logo & colors    | Yes           | Yes           |
@@ -105,12 +105,14 @@ Want a personal demo of our HamsterKombat-like game?
 
 Write to us, and we will answer all your questions and tell you all about your potential game:
 
-- <a href="https://telegram.me/omisoft" target="_blank">Our Telegram</a>
+- <a href="https://telegram.me/omisoft" target="_blank">Contact Us in Telegram</a>
 - <a href="https://omisoft.net/contact-us?utm_campaign=hamster-kombat-clone&utm_medium=social&utm_source=github" target="_blank">Contact Us page</a>
 - [Our Email](mailto:hi@omisoft.net)
 
 ## Supported Networks
 
+- TON
+- Tron
 - Ethereum
 - Arbitrum
 - Optimism
@@ -122,8 +124,6 @@ Write to us, and we will answer all your questions and tell you all about your p
 - Blast
 - Polkadot
 - Solana
-- TON
-- Tron
 - And others, write to us if the network you need is not in this list
 
 ## Frequently asked questions
@@ -131,7 +131,7 @@ Write to us, and we will answer all your questions and tell you all about your p
 <details>
   <summary>What is the Hamster Kombat Script?</summary>
   <p>Hamster Kombat Script - is a Package Solution of a simple Telegram Clicker Game with marketing mechanics, the goal of which is to significantly reduce the cost of community formation for Web3 projects.</p> 
-  <p>The best examples of this script are NotCoin & Hamster Kombat games</p> 
+  <p>The best examples of this script are NotCoin & TapSwap games</p> 
 </details>
 
 <details>
