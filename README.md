@@ -91,7 +91,7 @@ We will help you with product implementation so that you can fully focus on mark
 | Maintenance Cost    | Free               | $2,000 / year | Free           |
 | Community           | -                  | 10000+        | 50000+         |
 | Custom design       | Only logo & colors | Yes           | Yes            |
-| Pricing             | $10.000            | $20.000       | Contact Us     |
+| Pricing             | $10,000            | $20,000       | Contact Us     |
 
 ![Hamster Kombat Discount Offer](/images/discount.jpg "Hamster Kombat Discount Offer")
 
